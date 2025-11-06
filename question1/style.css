@@ -1,0 +1,19 @@
+.b{
+    background-color: black;
+    padding: 10px;
+}
+.a{
+    border: 10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+.c{
+    text-align: center;
+    color: azure;
+    font-style: italic;
+}
+.d{
+    text-align: center;
+    font-style: italic;
+    color: darkred;
+}
